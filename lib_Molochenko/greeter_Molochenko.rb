@@ -10,3 +10,4 @@ class Greeter
 end
 
 1st
+2nd
